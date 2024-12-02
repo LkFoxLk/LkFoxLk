@@ -12,7 +12,7 @@ LinkedIn:https://www.linkedin.com/in/kirill-grosu/
 
 Gmail:grosukiril179@gmail.com
 
-Тестовая документация:Jira, Figma< youtrack
+Тестовая документация:Jira, Figma, youtrack
 
 Тестирование веб-приложений:DevTools, Postman
 
