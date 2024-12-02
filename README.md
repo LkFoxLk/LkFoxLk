@@ -1,16 +1,14 @@
-## Hi there 👋
+Привет, меня зовут Кирилл
 
-<!--
-**LkFoxLk/LkFoxLk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Обо мне:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я начинающий тестировщик, тестирование веб-приложений (front-end + back-end), я очень замотивирован и заинтересован в этой сфере деятельности и готов саморазвиваться дальше
+Связь со мной:
+Telegram:@lkfoxlk
+LinkedIn:https://www.linkedin.com/in/kirill-grosu/
+Gmail:grosukiril179@gmail.com
+Тестовая документация:Jira, Figma< youtrack
+Тестирование веб-приложений:DevTools, Postman
+Тестирование мобильных приложений: android - studio
+Работа с данными: MySQL
+Работа с кодом:VScode, git, bash
